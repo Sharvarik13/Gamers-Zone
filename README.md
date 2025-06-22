@@ -31,6 +31,3 @@ I have designed this course to teach you everything you need to know to become a
 - Apply best practices
 
 
-By the end of this course, you'll have a solid understanding of React and be able to build real-world applications with React and TypeScript.
-
-You can find the full course at: https://codewithmosh.com 
